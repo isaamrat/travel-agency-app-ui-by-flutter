@@ -9,8 +9,8 @@ In the UI there are two pages included. One is the homepage and other one is of 
 
 <!-- markdownlint-disable MD033 -->
 <div style="text-align: center;">
-    <img src="./project_ui/developed/homePage.png" alt="Image 1" style=" max-width: 30%; ">
-    <img src="./project_ui/developed/secondPage.png" alt="Image 1" style="max-width: 30%;">
+    <img src="./project_ui/developed/homePage.png" alt="Image 1" style=" width: 30%; ">
+    <img src="./project_ui/developed/secondPage.png" alt="Image 1" style="width: 30%;">
 </div>
 <!-- markdownlint-disable MD033 -->
 
