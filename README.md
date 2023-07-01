@@ -8,10 +8,10 @@ This is a modern Travel agency app ui. With flutter I developed a pixel perfect 
 In the UI there are two pages included. One is the homepage and other one is of the Itinerary option.
 
 <!-- markdownlint-disable MD033 -->
-<div style="text-align: center;">
-    <img src="./project_ui/developed/homePage.png" alt="Image 1" style=" width: 30%; ">
-    <img src="./project_ui/developed/secondPage.png" alt="Image 1" style="width: 30%;">
-</div>
+<p align="center">
+  <img alt="Home Page" width="40%"  src="./project_ui/developed/homePage.png">
+  <img alt="Second Page" width="40%"  src="./project_ui/developed/secondPage.png">
+</p>
 <!-- markdownlint-disable MD033 -->
 
 This UI is developed by me and designed by WeFrame Tech. The link of the design will be in the below.
